@@ -32,7 +32,7 @@ RUN \
  make install-lib && \
 
 # install app
- git clone --depth 1 https://github.com/dobytang/lazylibrarian.git /app/lazylibrarian && \
+ git clone --depth 1 https://github.com/itsmegb/LazyLibrarian.git /app/lazylibrarian && \
 
 # cleanup
  apk del --purge \
